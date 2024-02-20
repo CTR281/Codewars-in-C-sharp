@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 using Codewars_in_C_sharp.FindEvenIndex;
 
-namespace Codewars_in_C_sharp.Tests;
+namespace Codewars_in_C_sharp.Tests.FindEvenIndex;
 
 [TestFixture]
-internal class FindEvenIndexTest
+internal class Tests
 {
     [Test]
     public void GenericTests()
